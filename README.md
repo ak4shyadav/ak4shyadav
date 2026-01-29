@@ -3,38 +3,47 @@
 
 I build real-time, user-facing AI systems with a strong focus on product thinking, scalable architecture, and human-centered UX.
 
-Currently:
+I care deeply about how AI feels to users, not just how it works.
 
-- Building follower.ai — an AI-powered personal life operating system
+# 🚧 Currently
 
-- React Native Intern at Banao Technologies Pvt. Ltd.
+- 🚀 Building follower.ai — an AI-powered personal life operating system
 
-- Focused on AI + Mobile + Systems
+- 💼 React Native Intern at Banao Technologies Pvt. Ltd.
 
-## What I Work On
+- 🎯 Focused on AI + Mobile + Systems Engineering
 
-- AI-powered applications (chat, memory, automation)
+# 🧠 What I Work On
 
-- Real-time streaming UX
+- 🤖 AI-powered applications (chat, memory, automation)
 
-- Mobile-first product engineering
+- ⚡ Real-time streaming UX
 
-- Backend orchestration for AI systems
+- 📱 Mobile-first product engineering
 
-- Modular, scalable architectures
+- 🔌 Backend orchestration for AI systems
 
-## Flagship Project
-### 🚀 follower.ai — AI-Powered Personal Life OS
+- 🧩 Modular, scalable architectures
 
-A conversational AI system designed to reduce cognitive load and help users execute consistently.
+# 🌟 Flagship Project
+## 🚀 follower.ai — AI-Powered Personal Life OS
 
-Tech: React Native, TypeScript, Node.js, Express, OpenAI API
-Features: Real-time streaming, modular architecture, localization, theming
+A conversational AI system designed to reduce cognitive load and help users execute consistently through proactive, human-like interaction.
 
-🔗 Repo:
+## Tech Stack:
+React Native, TypeScript, Node.js, Express, OpenAI API
+
+### Key Focus Areas:
+Real-time streaming • Modular architecture • Localization • Theming • Secure AI proxy
+
+### 🔗 Repo:
 https://github.com/ak4shyadav/follower.ai-A-Personal-Life-Admin-AI-Assistant
 
-## Other Projects
+# 🧪 Other Selected Projects
+
+🔁 Recap — AI-powered daily reflection & insight system
+
+🧠 LifeLog.ai — Experimental emotional memory & personal intelligence system
 
 🛒 E-commerce Platform — Full-stack system with auth, cart, and checkout
 
@@ -42,8 +51,7 @@ https://github.com/ak4shyadav/follower.ai-A-Personal-Life-Admin-AI-Assistant
 
 🌦 Weather Dashboard — API-driven real-time data visualization
 
-
-## How I Think
+# 🧭 How I Think
 
 I care about:
 
@@ -53,15 +61,16 @@ I care about:
 
 - Systems, not hacks
 
-- Clean UX
+- Clean, intuitive UX
 
-- Ownership
+- Ownership and end-to-end responsibility
 
-## Contact
+# 📬 Let’s Connect
 
-📧 ak4shyadav@gmail.com
+📧 Email: ak4shyadav@gmail.com
 
 🌍 Open to global remote roles
-🔗 Portfolio: https://ak4shportforlio.netlify.app/
 
-🔗 LinkedIn: https://www.linkedin.com/ak4shyadav/
+🌐 Portfolio: https://ak4shportforlio.netlify.app/
+
+💼 LinkedIn: https://www.linkedin.com/ak4shyadav/
