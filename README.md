@@ -71,6 +71,6 @@ I care about:
 
 🌍 Open to global remote roles
 
-🌐 Portfolio: https://ak4shyadav.vecel.app
+🌐 Portfolio: https://ak4shyadav.vercel.app
 
 💼 LinkedIn: https://www.linkedin.com/ak4shyadav
