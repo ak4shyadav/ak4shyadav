@@ -71,6 +71,6 @@ I care about:
 
 🌍 Open to global remote roles
 
-🌐 Portfolio: https://ak4shportforlio.netlify.app/
+🌐 Portfolio: https://ak4shportforlio.netlify.app
 
-💼 LinkedIn: https://www.linkedin.com/ak4shyadav/
+💼 LinkedIn: https://www.linkedin.com/ak4shyadav
